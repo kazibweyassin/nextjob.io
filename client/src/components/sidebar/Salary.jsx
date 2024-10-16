@@ -1,13 +1,13 @@
 import React from 'react';
 import { Button } from './Button';
-import InputField from './InputField';  // Import the InputField component
+import InputField from './InputField';  
 
-const Salary = ({ handleChange, handleClick }) => {  // Destructure the props
+const Salary = ({ handleChange, handleClick }) => {  
     return (
         <div>
             <h4 className='text-lg font-medium mb-4'>Salary</h4>
 
-            {/* Salary Type Buttons in vertical layout */}
+            {/* Salary Type Buttons */}
             <div className='mb-4'>
                 <Button onClickHandler={handleClick} value="hourly" title="Hourly" />
                 <Button onClickHandler={handleClick} value="monthly" title="Monthly" />

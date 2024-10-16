@@ -2,6 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="
+  default-src 'self';
+  connect-src 'self' https://firebase.googleapis.com https://firebaseinstallations.googleapis.com;
+  script-src 'self' 'unsafe-inline' https://www.googletagmanager.com;
+">  
     <link rel="icon" type="image/svg+xml" href="vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + React</title>

@@ -2,6 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://kazibweyassin.github.io/nextjob",
   "type": "module",
 "scripts": {
   "dev": "vite",
@@ -9,7 +10,7 @@
   "lint": "eslint .",
   "preview": "vite preview",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist -r https://github.com/kazibweyassin/nextjob.git"
+"deploy": "gh-pages -d dist"
 },
   "dependencies": {
     "firebase": "^10.14.1",

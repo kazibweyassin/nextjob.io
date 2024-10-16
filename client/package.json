@@ -12,6 +12,8 @@
     "deploy": "gh-pages -d dist"
   },
   "homepage": "https://kazibweyassin.github.io/nextjob",
+
+
   "dependencies": {
     "firebase": "^10.14.1",
     "localforage": "^1.10.0",

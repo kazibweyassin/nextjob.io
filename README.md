@@ -19,11 +19,11 @@ A web application built using the MERN (MongoDB, Express, React, Node.js) stack,
 - **Responsive Design:** Optimized for mobile and desktop views.
 
 ## Technologies Used
-- **Frontend:** React.js, HTML, CSS, Bootstrap
+- **Frontend:** React.js, HTML, CSS, Tailwind
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose)
-- **Authentication:** JWT (JSON Web Tokens)
-- **Cloud Hosting:** Deployed on [Your Deployment Platform]
+- **Authentication:** Firebase
+- **Cloud Hosting:** Deployed on github pages
 - **Version Control:** Git & GitHub
 
 ## Installation

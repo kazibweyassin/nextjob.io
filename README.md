@@ -1,6 +1,8 @@
 # Remote Jobs Platform
 
 A web application built using the MERN (MongoDB, Express, React, Node.js) stack, designed to allow users to post jobs and apply for remote job opportunities. This platform simplifies the process of finding and listing remote work, offering a user-friendly interface for both job seekers and employers.
+#Deployed Website
+- [Link](https://teal-chimera-36054a.netlify.app/)
 
 ## Table of Contents
 - [Features](#features)
